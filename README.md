@@ -46,58 +46,58 @@ This will clear all the outputs and now you can understand each statement and le
 ## Table of contents
 
 
-[000_Intro_to_Python](XXX)
+[000_Intro_to_Python](https://github.com/milaan9/01_Python_Introduction/blob/main/000_Intro_to_Python.ipynb)
 
 
-[001_How_to_install_Python](XXX)
+[001_How_to_install_Python](https://github.com/milaan9/01_Python_Introduction/blob/main/001_How_to_install_Python.ipynb)
 
 
-[002_Setting_path_in_Python(OPTIONAL)](XXX)
+[002_Setting_path_in_Python(OPTIONAL)](https://github.com/milaan9/01_Python_Introduction/blob/main/002_Setting_path_in_Python(OPTIONAL).ipynb)
 
 
-[003_test_file](XXX)
+[003_test_file](https://github.com/milaan9/01_Python_Introduction/blob/main/003_test_file.ipynb)
 
 
-[004_Hello_World](XXX)
+[004_Hello_World](https://github.com/milaan9/01_Python_Introduction/blob/main/004_Hello_World.ipynb)
 
 
-[005_Python_Keywords_and_Identifiers](XXX)
+[005_Python_Keywords_and_Identifiers](https://github.com/milaan9/01_Python_Introduction/blob/main/005_Python_Keywords_and_Identifiers.ipynb)
 
 
-[006_Python_Statement_Indentation_Comments](XXX)
+[006_Python_Statement_Indentation_Comments](https://github.com/milaan9/01_Python_Introduction/blob/main/006_Python_Statement_Indentation_Comments.ipynb)
 
 
-[007_Python_Variables_& Constants](XXX)
+[007_Python_Variables_& Constants](https://github.com/milaan9/01_Python_Introduction/blob/main/007_Python_Variables_%26_Constants.ipynb)
 
 
-[008_Python_Literals](XXX)
+[008_Python_Literals](https://github.com/milaan9/01_Python_Introduction/blob/main/008_Python_Literals.ipynb)
 
 
-[009_Python_Data_Types](XXX)
+[009_Python_Data_Types](https://github.com/milaan9/01_Python_Introduction/blob/main/009_Python_Data_Types.ipynb)
 
 
-[010_Python_Type_Conversion](XXX)
+[010_Python_Type_Conversion](https://github.com/milaan9/01_Python_Introduction/blob/main/010_Python_Type_Conversion.ipynb)
 
 
-[011_Python_Input_Output_Import](XXX)
+[011_Python_Input_Output_Import](https://github.com/milaan9/01_Python_Introduction/blob/main/011_Python_Input_Output_Import.ipynb)
 
 
-[012_Python_Operators](XXX)
+[012_Python_Operators](https://github.com/milaan9/01_Python_Introduction/blob/main/012_Python_Operators.ipynb)
 
 
-[013_Python_Namespace_and_Scope](XXX)
+[013_Python_Namespace_and_Scope](https://github.com/milaan9/01_Python_Introduction/blob/main/013_Python_Namespace_and_Scope.ipynb)
 
 
-[Python_Basics.pdf](XXX)
+[Python_Basics.pdf](https://github.com/milaan9/01_Python_Introduction/blob/main/Python_Basics.pdf)
 
 
-[Python_Jupyter_Notebook.pdf](XXX)
+[Python_Jupyter_Notebook.pdf](https://github.com/milaan9/01_Python_Introduction/blob/main/Python_Jupyter_Notebook.pdf)
 
 
-[constant](XXX)
+[constant](https://github.com/milaan9/01_Python_Introduction/blob/main/constant.ipynb)
 
 
-[main](XXX)
+[main](https://github.com/milaan9/01_Python_Introduction/blob/main/main.ipynb)
 
 These are online read-only versions.
 
