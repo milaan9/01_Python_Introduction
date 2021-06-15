@@ -1,7 +1,7 @@
 # 01_Python_Introduction
 
 
-## Introduction
+## Introduction 👋
 
 Python is a modern, robust, high level programming language. It is very easy to pick up even if you are completely new to programming.
 
@@ -92,7 +92,7 @@ In Anaconda, Open the respective terminals and execute the above.
 
 These are online read-only versions.
 
-## Frequently asked questions
+## Frequently asked questions ❔
 
 ### How can I thank you for writing and sharing this tutorial? 🌷
 
