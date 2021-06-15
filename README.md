@@ -110,9 +110,9 @@ Go [here](https://github.com/milaan9/01_Python_Introduction) if you aren't here 
 
 3. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
     
-4.Launch ipython notebook from the folder which contains the notebooks. Open each one of them
-    
-    Cell > All Output > Clear
+4. Launch ipython notebook from the folder which contains the notebooks. Open each one of them
+  
+    `Cell > All Output > Clear`
     
 This will clear all the outputs and now you can understand each statement and learn interactively.
 
@@ -121,7 +121,7 @@ If you have git and you know how to use it, you can also clone the repository in
 
 ## Authors ✍️
 
-I'm Dr. Milaan Parmar and I have written this tutorial. If you think you can add/correct/edit and enhance this tutorial you are most welcome 🙏
+I'm Dr. Milaan Parmar and I have written this tutorial. If you think you can add/correct/edit and enhance this tutorial you are most welcome🙏
 
 See [github's contributors page](https://github.com/milaan9/01_Python_Introduction/graphs/contributors) for details.
 
