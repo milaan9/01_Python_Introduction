@@ -128,7 +128,7 @@ See [github's contributors page](https://github.com/milaan9/01_Python_Introducti
 
 If you have trouble with this tutorial please tell me about it by [Create an issue on GitHub](https://github.com/milaan9/01_Python_Introduction/issues/new). and I'll make this tutorial better. This is probably the best choice if you had trouble following the tutorial, and something in it should be explained better. You will be asked to create a GitHub account if you don't already have one.
 
-If you like this tutorial, please [give it a ⭐ star](./README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
+If you like this tutorial, please [give it a ⭐ star](https://github.com/milaan9/01_Python_Introduction).
 
 
 ## Licence 📜
