@@ -104,7 +104,7 @@ Go [here](https://github.com/milaan9/01_Python_Introduction) if you aren't here 
 
 1. Go [here](https://github.com/milaan9/01_Python_Introduction) if you aren't here already.
     
-2. Click the big green "Clone or download" button in the top right of the page, then click "Download ZIP".
+2. Click the big green "Clone or download" button in the top right of the page, then click "[Download ZIP](https://github.com/milaan9/01_Python_Introduction/archive/refs/heads/main.zip)".
 
     ![Download ZIP](img/dnld_rep.png)
 
