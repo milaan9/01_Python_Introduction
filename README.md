@@ -7,7 +7,7 @@ Python is a modern, robust, high level programming language. It is very easy to 
 
 ## Installation
 
-Mac OS X and Linux comes pre installed with python. Windows users can download python from https://www.python.org/downloads/ .
+Mac OS X and Linux comes pre installed with python. Windows users can download [python](https://www.python.org/downloads/).
 
 To install IPython run,
 
@@ -21,7 +21,7 @@ Installing all the necessary libraries might prove troublesome. Anaconda and Can
 
 #### Anaconda
 
-Download Anaconda from https://www.continuum.io/downloads
+Download [Anaconda](https://www.continuum.io/downloads)
 
 Anaconda is completely free and includes more than 300 python packages. Both python 2.7 and 3.4 options are available.
 
@@ -32,6 +32,7 @@ From the terminal
     ipython notebook
 
 In Anaconda, Open the respective terminals and execute the above.
+
 
 ## Table of contents 📋
 
@@ -97,23 +98,17 @@ These are online read-only versions.
 
 You can ⭐ star this tutorial. Starring is free for you, but it tells me and other people that it was helpful and you like this tutorial.
 
-Go [here](https://github.com/milaan9/01_Python_Introduction) if you aren't here
-already and click the "⭐ Star" button in the top right corner. You will be
-asked to create a GitHub account if you don't already have one.
+Go [here](https://github.com/milaan9/01_Python_Introduction) if you aren't here already and click the "⭐ Star" button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
 
 ### How can I read this tutorial without an Internet connection?
 
-1. Go [here](https://github.com/milaan9/01_Python_Introduction) if you aren't
-    here already.
+1. Go [here](https://github.com/milaan9/01_Python_Introduction) if you aren't here already.
     
-2. Click the big green "Clone or download" button in the top right of
-    the page, then click "Download ZIP".
+2. Click the big green "Clone or download" button in the top right of the page, then click "Download ZIP".
 
     ![Download ZIP](img/dnld_rep.png)
 
-3. Extract the ZIP and open it. Unfortunately I don't have any more
-    specific instructions because how exactly this is done depends on
-    which operating system you run.
+3. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
     
 4.Launch ipython notebook from the folder which contains the notebooks. Open each one of them
     
@@ -126,11 +121,13 @@ If you have git and you know how to use it, you can also clone the repository in
 
 ## Authors ✍️
 
-I'm Dr. Milaan Parmar and I have written this tutorial. If you think you can add/correct/edit and enhance this tutorial You are most welcome 🙏
+I'm Dr. Milaan Parmar and I have written this tutorial. If you think you can add/correct/edit and enhance this tutorial you are most welcome 🙏
 
 See [github's contributors page](https://github.com/milaan9/01_Python_Introduction/graphs/contributors) for details.
 
-If you have trouble with this tutorial please [tell me about it](./contact-me.md) and I'll make this tutorial better. If you like this tutorial, please [give it a ⭐ star](./README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
+If you have trouble with this tutorial please tell me about it by [Create an issue on GitHub](https://github.com/milaan9/01_Python_Introduction/issues/new). and I'll make this tutorial better. This is probably the best choice if you had trouble following the tutorial, and something in it should be explained better. You will be asked to create a GitHub account if you don't already have one.
+
+If you like this tutorial, please [give it a ⭐ star](./README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
 
 
 ## Licence 📜
