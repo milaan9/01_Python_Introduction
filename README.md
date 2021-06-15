@@ -116,8 +116,8 @@ asked to create a GitHub account if you don't already have one.
     specific instructions because how exactly this is done depends on
     which operating system you run.
     
-4. Launch ipython notebook from the folder which contains the notebooks. Open each one of them
-
+4.Launch ipython notebook from the folder which contains the notebooks. Open each one of them
+    
     Cell > All Output > Clear
     
 This will clear all the outputs and now you can understand each statement and learn interactively.
