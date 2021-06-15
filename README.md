@@ -33,7 +33,7 @@ From the terminal
 
 In Anaconda, Open the respective terminals and execute the above.
 
-## Table of contents
+## Table of contents 📋
 
 
 [000_Intro_to_Python](https://github.com/milaan9/01_Python_Introduction/blob/main/000_Intro_to_Python.ipynb)
@@ -93,12 +93,12 @@ These are online read-only versions.
 
 ## Frequently asked questions
 
-### How can I thank you for writing and sharing this tutorial?
+### How can I thank you for writing and sharing this tutorial? 🌷
 
-You can star ⭐ this tutorial. Starring is free for you, but it tells me and other people that it was helpful and you like this tutorial.
+You can ⭐ star this tutorial. Starring is free for you, but it tells me and other people that it was helpful and you like this tutorial.
 
 Go [here](https://github.com/milaan9/01_Python_Introduction) if you aren't here
-already and click the "Star" button in the top right corner. You will be
+already and click the "⭐ Star" button in the top right corner. You will be
 asked to create a GitHub account if you don't already have one.
 
 ### How can I read this tutorial without an Internet connection?
@@ -123,13 +123,16 @@ This will clear all the outputs and now you can understand each statement and le
 
 If you have git and you know how to use it, you can also clone the repository instead of downloading a zip and extracting it. An advantage with doing it this way is that you don't need to download the whole tutorial again to get the latest version of it, all you need to do is to pull with git and run ipython notebook again.
 
+
 ## Authors ✍️
 
 I'm Dr. Milaan Parmar and I have written this tutorial. If you think you can add/correct/edit and enhance this tutorial You are most welcome 🙏
+
 See [github's contributors page](https://github.com/milaan9/01_Python_Introduction/graphs/contributors) for details.
 
-If you have trouble with this tutorial please [tell me about it](./contact-me.md) and I'll make this tutorial better. If you
-like this tutorial, please [give it a star⭐](./README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
+If you have trouble with this tutorial please [tell me about it](./contact-me.md) and I'll make this tutorial better. If you like this tutorial, please [give it a ⭐ star](./README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
 
-You may use this tutorial freely at your own risk. See
-[LICENSE](./LICENSE).
+
+## Licence 📜
+
+You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
