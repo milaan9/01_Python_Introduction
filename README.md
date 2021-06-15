@@ -92,6 +92,7 @@ In Anaconda, Open the respective terminals and execute the above.
 
 These are online read-only versions.
 
+
 ## Frequently asked questions ❔
 
 ### How can I thank you for writing and sharing this tutorial? 🌷
