@@ -46,7 +46,7 @@ In Anaconda, Open the respective terminals and execute the above.
 [002_Setting_path_in_Python(OPTIONAL)](https://github.com/milaan9/01_Python_Introduction/blob/main/002_Setting_path_in_Python(OPTIONAL).ipynb)
 
 
-[003_test_file](https://github.com/milaan9/01_Python_Introduction/blob/main/003_test_file.ipynb)
+[003_Jupyter_Keyboard_Shortcuts_Practice](https://github.com/milaan9/01_Python_Introduction/blob/main/003_Jupyter_Keyboard_Shortcuts_Practice.ipynb)
 
 
 [004_Hello_World](https://github.com/milaan9/01_Python_Introduction/blob/main/004_Hello_World.ipynb)
