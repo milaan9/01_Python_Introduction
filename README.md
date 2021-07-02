@@ -36,14 +36,16 @@ In Anaconda, Open the respective terminals and execute the above.
 
 ## Table of contents 📋
 
+[0000_What_is_Programming](https://github.com/milaan9/01_Python_Introduction/blob/main/0000_What_is_Programming.ipynb)
+
 
 [000_Intro_to_Python](https://github.com/milaan9/01_Python_Introduction/blob/main/000_Intro_to_Python.ipynb)
 
 
-[001_How_to_install_Python](https://github.com/milaan9/01_Python_Introduction/blob/main/001_How_to_install_Python.ipynb)
+[001_Python_Programming](https://github.com/milaan9/01_Python_Introduction/blob/main/001_Python_Programming.ipynb)
 
 
-[002_Setting_path_in_Python(OPTIONAL)](https://github.com/milaan9/01_Python_Introduction/blob/main/002_Setting_path_in_Python(OPTIONAL).ipynb)
+[002_How_to_install_Python](https://github.com/milaan9/01_Python_Introduction/blob/main/001_How_to_install_Python.ipynb)
 
 
 [003_Jupyter_Keyboard_Shortcuts_Practice](https://github.com/milaan9/01_Python_Introduction/blob/main/003_Jupyter_Keyboard_Shortcuts_Practice.ipynb)
