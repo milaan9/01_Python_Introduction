@@ -1,5 +1,6 @@
 <p align="center"> <img src="https://badges.pufler.dev/updated/milaan9/01_Python_Introduction" alt="milaan9"/>  <img src="https://badges.pufler.dev/created/milaan9/01_Python_Introduction" alt="milaan9"/>  <img src="https://badges.pufler.dev/visits/milaan9/01_Python_Introduction" alt="milaan9"/>  <img src="https://img.shields.io/github/stars/milaan9/01_Python_Introduction" alt="Stars Badge"/>
-<a href="https://github.com/milaan9/01_Python_Introduction/network/members"><img src="https://img.shields.io/github/forks/milaan9/01_Python_Introduction" alt="Forks Badge"/> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/milaan9/01_Python_Introduction?color=2b9348"></p> 
+<a href="https://github.com/milaan9/01_Python_Introduction/network/members"><img src="https://img.shields.io/github/forks/milaan9/01_Python_Introduction" alt="Forks Badge"/> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/milaan9/01_Python_Introduction?color=2b9348"> <a href="https://github.com/milaan9/01_Python_Introduction/pulls">  <img src="https://img.shields.io/github/issues-pr/milaan9/01_Python_Introduction" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/milaan9/01_Python_Introduction/issues"><img src="https://img.shields.io/github/issues/milaan9/01_Python_Introduction" alt="Issues Badge"/></a></p> 
  <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
 
 
