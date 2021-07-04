@@ -10,6 +10,9 @@
 <a href="https://github.com/milaan9/01_Python_Introduction/graphs/contributors"><img src="https://img.shields.io/github/contributors/milaan9/01_Python_Introduction?color=2b9348" alt="GitHub contributors"></a> 
  <!--<a href="https://github.com/milaan9/01_Python_Introduction/archive/refs/heads/main.zip"><img src="https://img.shields.io/npm/dm/starwars-names.svg?style=flat" alt="GitHub downloads"></a>  -->
  <img src="https://img.shields.io/badge/made%20with-IPython-blue.svg?style=flat" alt="made with IPython">
+ <a href="https://github.com/milaan9/01_Python_Introduction/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/01_Python_Introduction" /></a> 
+ 
+ 
 </p> 
  <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
  
