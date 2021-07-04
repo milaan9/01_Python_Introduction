@@ -8,6 +8,7 @@
  <a href="https://github.com/milaan9/01_Python_Introduction/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/01_Python_Introduction" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/milaan9/01_Python_Introduction/issues"><img src="https://img.shields.io/github/issues/milaan9/01_Python_Introduction" alt="Issues Badge"/></a>
 <a href="https://github.com/milaan9/01_Python_Introduction/graphs/contributors"><img src="https://img.shields.io/github/contributors/milaan9/01_Python_Introduction?color=2b9348" alt="GitHub contributors"></a> 
+[![downloads](https://img.shields.io/npm/dm/starwars-names.svg?style=flat-square)](http://npm-stat.com/charts.html?package=starwars-names&from=2015-08-01)
 </p> 
  <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
  
