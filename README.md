@@ -1,5 +1,7 @@
 <p align="center"> <img src="https://badges.pufler.dev/updated/milaan9/01_Python_Introduction" alt="milaan9"/>  <img src="https://badges.pufler.dev/created/milaan9/01_Python_Introduction" alt="milaan9"/>  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/milaan9/01_Python_Introduction" alt="milaan9"/></p> 
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 # 01_Python_Introduction  
 
 
