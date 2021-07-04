@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://badges.pufler.dev/updated/milaan9/01_Python_Introduction" alt="milaan9"/>  <img src="https://badges.pufler.dev/created/milaan9/01_Python_Introduction" alt="milaan9"/>  <img src="https://badges.pufler.dev/visits/milaan9/01_Python_Introduction" alt="milaan9"/>   <img src="https://contrib.rocks/image?repo=milaan9/01_Python_Introduction" alt="milaan9"/></p> 
+<p align="center"> <img src="https://badges.pufler.dev/updated/milaan9/01_Python_Introduction" alt="milaan9"/>  <img src="https://badges.pufler.dev/created/milaan9/01_Python_Introduction" alt="milaan9"/>  <img src="https://badges.pufler.dev/visits/milaan9/01_Python_Introduction" alt="milaan9"/>   <img src="https://contrib.rocks/image?repo=milaan9/01_Python_Introduction" alt="milaan9"/>  <img src="https://badges.pufler.dev/contributors/milaan9/git-badges?size=50&padding=5&bots=true" alt="milaan9"/></p> 
 
 
 # 01_Python_Introduction  
