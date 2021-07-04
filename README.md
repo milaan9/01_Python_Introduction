@@ -2,7 +2,11 @@
 <a href="https://github.com/milaan9/01_Python_Introduction/network/members"><img src="https://img.shields.io/github/forks/milaan9/01_Python_Introduction" alt="Forks Badge"/> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/milaan9/01_Python_Introduction?color=2b9348"> <a href="https://github.com/milaan9/01_Python_Introduction/pulls">  <img src="https://img.shields.io/github/issues-pr/milaan9/01_Python_Introduction" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/milaan9/01_Python_Introduction/issues"><img src="https://img.shields.io/github/issues/milaan9/01_Python_Introduction" alt="Issues Badge"/></a></p> 
  <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
-[![Visits Badge](https://badges.pufler.dev/visits/milaan9/01_Python_Introduction)]
+ 
+ 
+[![Visits Badge](https://badges.pufler.dev/visits/milaan9/01_Python_Introduction)](https://codepen.io/braydoncoyer)
+ 
+ 
 
 # 01_Python_Introduction  
 
