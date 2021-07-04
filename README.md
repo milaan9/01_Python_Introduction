@@ -2,7 +2,7 @@
                    <img src="https://badges.pufler.dev/created/milaan9/01_Python_Introduction" alt="milaan9"/>  
                    <img src="https://badges.pufler.dev/visits/milaan9/01_Python_Introduction" alt="milaan9"/></p> 
  <img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>
-
+[![Visits Badge](https://badges.pufler.dev/visits/milaan9/01_Python_Introduction)]
 # 01_Python_Introduction  
 
 
