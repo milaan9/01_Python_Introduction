@@ -1,8 +1,8 @@
 # 01_Python_Introduction
 
-[![Visits Badge](https://badges.pufler.dev/visits/milaan9/01_Python_Introduction/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/01_Python_Introduction/git-badges)](https://badges.pufler.dev)
 
-[![Updated Badge](https://badges.pufler.dev/updated/milaan9/01_Python_Introduction/git-badges)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/01_Python_Introduction/git-badges)](https://badges.pufler.dev)
 
 ## Introduction 👋
 
