@@ -145,7 +145,8 @@ I'm Dr. Milaan Parmar and I have written this tutorial. If you think you can add
 
 See [github's contributors page](https://github.com/milaan9/01_Python_Introduction/graphs/contributors) for details.
 
-If you have trouble with this tutorial please tell me about it by [Create an issue on GitHub](https://github.com/milaan9/01_Python_Introduction/issues/new). and I'll make this tutorial better. This is probably the best choice if you had trouble following the tutorial, and something in it should be explained better. You will be asked to create a GitHub account if you don't already have one.
+If you have trouble with this tutorial please tell me about it by [Create an issue on GitHub](https://github.com/milaan9/01_Python_Introduction/issues/new) ![image](https://user-images.githubusercontent.com/48193918/124397909-86858c80-dd30-11eb-803c-9650d9c4a927.png)
+. and I'll make this tutorial better. This is probably the best choice if you had trouble following the tutorial, and something in it should be explained better. You will be asked to create a GitHub account if you don't already have one.
 
 If you like this tutorial, please [give it a ⭐ star][<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>](https://github.com/milaan9/01_Python_Introduction).
 
