@@ -1,6 +1,6 @@
 # 01_Python_Introduction
 
-<p align="center"> <img src="https://badges.pufler.dev/updated/milaan9/01_Python_Introduction" alt="milaan9"/> <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/> <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/></p> 
+<p align="center"> <img src="https://badges.pufler.dev/updated/milaan9/01_Python_Introduction" alt="milaan9"/> <img src="https://badges.pufler.dev/created/milaan9/01_Python_Introduction" alt="milaan9"/> <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/></p> 
 
 
 ## Introduction 👋
