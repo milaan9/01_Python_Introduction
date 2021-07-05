@@ -1,20 +1,12 @@
 <p align="center"> 
 <img src="https://img.shields.io/github/last-commit/milaan9/01_Python_Introduction.svg?colorB=orange&style=flat" alt="Last Commit"/> </a> 
-
 <a href="https://github.com/milaan9/01_Python_Introduction/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/01_Python_Introduction" /></a> 
-
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F01_Python_Introduction&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
 <img src="https://img.shields.io/github/repo-size/milaan9/01_Python_Introduction.svg?colorB=cyan&style=flat" alt="Size"/> </a>
-
 <a href="https://github.com/milaan9/01_Python_Introduction/stargazers"><img src="https://img.shields.io/github/stars/milaan9/01_Python_Introduction" alt="Stars Badge"/></a>
-
 <a href="https://github.com/milaan9/01_Python_Introduction/network/members"><img src="https://img.shields.io/github/forks/milaan9/01_Python_Introduction" alt="Forks Badge"/> </a>
-
 <a href="https://github.com/milaan9/01_Python_Introduction/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/01_Python_Introduction.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
-
 <a href="https://github.com/milaan9/01_Python_Introduction/issues"><img src="https://img.shields.io/github/issues/milaan9/01_Python_Introduction.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
-
 <img src="https://img.shields.io/github/languages/top/milaan9/01_Python_Introduction.svg?colorB=red&style=flat" alt="Language"/> </a> 
 
 </p> 
