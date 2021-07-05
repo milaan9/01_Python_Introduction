@@ -13,7 +13,7 @@
 <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
  
 ![language](https://img.shields.io/github/languages/top/milaan9/01_Python_Introduction.svg?colorB=red&style=flat)
-![size](https://img.shields.io/github/repo-size/fmilaan9/01_Python_Introduction.svg?style=flat)
+![size](https://img.shields.io/github/repo-size/milaan9/01_Python_Introduction.svg?style=flat)
 ![status](https://img.shields.io/github/last-commit/milaan9/01_Python_Introduction/master.svg?style=flat) 
 
 # 01_Python_Introduction  
