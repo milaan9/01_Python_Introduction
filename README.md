@@ -13,7 +13,6 @@
  
 </p> 
 
-[![Github all releases](https://img.shields.io/github/downloads/milaan9/01_Python_Introduction/total.svg)](https://GitHub.com/milaan9/01_Python_Introduction/)
  <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
  
  
