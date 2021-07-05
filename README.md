@@ -6,7 +6,7 @@
 <a href="https://github.com/milaan9/01_Python_Introduction/network/members"><img src="https://img.shields.io/github/forks/milaan9/01_Python_Introduction" alt="Forks Badge"/> </a>
 <img src="https://img.shields.io/github/repo-size/milaan9/01_Python_Introduction.svg?colorB=C8A2C8&style=flat" alt="Size"/>
 <a href="https://github.com/milaan9/01_Python_Introduction/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/01_Python_Introduction.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/milaan9/01_Python_Introduction/issues"><img src="https://img.shields.io/github/issues/milaan9/01_Python_Introduction.svg?colorB=FFD500&style=flat" alt="Issues Badge"/></a>
+<a href="https://github.com/milaan9/01_Python_Introduction/issues"><img src="https://img.shields.io/github/issues/milaan9/01_Python_Introduction.svg?colorB=FFBB33&style=flat" alt="Issues Badge"/></a>
 <img src="https://img.shields.io/github/languages/top/milaan9/01_Python_Introduction.svg?colorB=EA4335&style=flat" alt="Language"/> </a> 
 
 </p> 
