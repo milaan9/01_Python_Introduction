@@ -10,10 +10,10 @@
 <img src="https://img.shields.io/badge/made%20with-IPython-blue.svg?style=flat" alt="made with IPython">
 <a href="https://github.com/milaan9/01_Python_Introduction/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/01_Python_Introduction" /></a> 
  
-[![GitHub commits](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)](https://GitHub.com/Naereen/StrapDown.js/commit/)
- 
  
 </p> 
+
+[![GitHub commits](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)](https://GitHub.com/Naereen/StrapDown.js/commit/)
  <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
  
  
