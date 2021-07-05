@@ -13,7 +13,7 @@
  
 </p> 
 
-[![GitHub commits](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+[![GitHub commits](https://img.shields.io/github/commits-since/milaan9/01_Python_Introduction/v1.0.0.svg)](https://GitHub.com/milaan9/01_Python_Introduction/commit/)
  <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
  
  
