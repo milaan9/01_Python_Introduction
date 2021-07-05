@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/github/repo-size/milaan9/01_Python_Introduction.svg?style=flat" alt="Size"/> </a>
 <a href="https://github.com/milaan9/01_Python_Introduction/stargazers"><img src="https://img.shields.io/github/stars/milaan9/01_Python_Introduction" alt="Stars Badge"/></a>
 <a href="https://github.com/milaan9/01_Python_Introduction/network/members"><img src="https://img.shields.io/github/forks/milaan9/01_Python_Introduction" alt="Forks Badge"/> </a>
-<a href="https://github.com/milaan9/01_Python_Introduction/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/01_Python_Introduction" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/milaan9/01_Python_Introduction/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/01_Python_Introduction.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/milaan9/01_Python_Introduction/issues"><img src="https://img.shields.io/github/issues/milaan9/01_Python_Introduction.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
 <img src="https://img.shields.io/github/languages/top/milaan9/01_Python_Introduction.svg?colorB=red&style=flat" alt="Language"/> </a> 
 
