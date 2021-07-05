@@ -15,7 +15,7 @@
 ![language](https://img.shields.io/github/languages/top/milaan9/01_Python_Introduction.svg?style=flat)
 ![size](https://img.shields.io/github/repo-size/milaan9/01_Python_Introduction.svg?style=flat)
 ![status](https://img.shields.io/github/last-commit/milaan9/01_Python_Introduction.svg?style=flat) 
-
+![release](https://img.shields.io/github/release/milaan9/01_Python_Introduction.svg?colorB=orange&style=flat)
 # 01_Python_Introduction  
 
 
