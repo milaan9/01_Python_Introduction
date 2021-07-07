@@ -130,7 +130,7 @@ Go [here](https://github.com/milaan9/01_Python_Introduction) if you aren't here 
     
 4. Launch ipython notebook from the folder which contains the notebooks. Open each one of them
   
-    **`Kernel > Restart & Clear Output`**
+    `Kernel > Restart & Clear Output`
     
 This will clear all the outputs and now you can understand each statement and learn interactively.
 
