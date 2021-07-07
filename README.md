@@ -116,7 +116,7 @@ These are online read-only versions.
 
 You can <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=if%20useful&style=style=flat&color=BC4E99" alt="Star Badge"/> Starring is free for you, but it tells me and other people that it was helpful and you like this tutorial.
 
-Go [here](https://github.com/milaan9/01_Python_Introduction) if you aren't here already and click the <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=Star&style=style=flat&color=black" alt="Star Badge"/>"⭐ Star" button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
+Go [here](https://github.com/milaan9/01_Python_Introduction) if you aren't here already and click the <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=Star&style=style=flat&color=white" alt="Star Badge"/>"⭐ Star" button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
 
 ### How can I read this tutorial without an Internet connection? 🤔
 
