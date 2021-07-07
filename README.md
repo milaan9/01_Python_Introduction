@@ -22,7 +22,7 @@ Python is a modern, robust, high level programming language. It is very easy to 
 
 ## Installation
 
-Mac OS X and Linux comes pre installed with python. Windows users can download [python](https://www.python.org/downloads/).
+Mac OS X and Linux comes pre installed with python. Windows users can download [![Python](	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org/downloads/).
 
 To install IPython run,
 
@@ -35,13 +35,12 @@ This will install all the necessary dependencies for the notebook, qtconsole, te
 Installing all the necessary libraries might prove troublesome. Anaconda and Canopy comes pre packaged with all the necessary python libraries and also IPython.
 
 #### Anaconda 
-[![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.continuum.io/downloads)
 
-Download [Anaconda](https://www.continuum.io/downloads)
+Download [![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.continuum.io/downloads)
 
 Anaconda is completely free and includes more than 300 python packages. Both python 2.7 and 3.4 options are available.
 
-## Launching IPython Notebook
+## Launching [![IPython](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/) Notebook
 
 From the terminal
 
