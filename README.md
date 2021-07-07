@@ -34,7 +34,8 @@ This will install all the necessary dependencies for the notebook, qtconsole, te
 
 Installing all the necessary libraries might prove troublesome. Anaconda and Canopy comes pre packaged with all the necessary python libraries and also IPython.
 
-#### Anaconda [!()https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white](https://www.continuum.io/downloads)
+#### Anaconda 
+[![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.continuum.io/downloads)
 
 Download [Anaconda](https://www.continuum.io/downloads)
 
