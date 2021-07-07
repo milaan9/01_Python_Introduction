@@ -22,7 +22,7 @@ Python is a modern, robust, high level programming language. It is very easy to 
 
 ## Installation
 
-Mac OS X and Linux comes pre installed with python. Windows users can download [![Python](	https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)](https://www.python.org/downloads/)
+Mac OS X and Linux comes pre installed with python. Windows users can download [![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)](https://www.python.org/downloads/)
 
 To install IPython run,
 
