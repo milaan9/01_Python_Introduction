@@ -44,7 +44,7 @@ Anaconda is completely free and includes more than 300 python packages. Both pyt
 
 From the terminal
 
-    ipython notebook
+    **ipython notebook**
 
 In Anaconda, Open the respective terminals and execute the above.
 
