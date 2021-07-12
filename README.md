@@ -100,6 +100,9 @@ In Anaconda, Open the respective terminals and execute the above.
 [Jupyter Notebook Cheat Sheet.pdf](https://github.com/milaan9/01_Python_Introduction/blob/main/Jupyter%20Notebook%20Cheat%20Sheet.pdf)
 
 
+[Python For Data Science Cheat Sheet For Beginners.pdf](https://github.com/milaan9/01_Python_Introduction/blob/main/Python%20For%20Data%20Science%20Cheat%20Sheet%20For%20Beginners.pdf)
+
+
 [constant](https://github.com/milaan9/01_Python_Introduction/blob/main/constant.ipynb)
 
 
