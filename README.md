@@ -97,10 +97,7 @@ In Anaconda, Open the respective terminals and execute the above.
 [013_Python_Namespace_and_Scope](https://github.com/milaan9/01_Python_Introduction/blob/main/013_Python_Namespace_and_Scope.ipynb)
 
 
-[Python_Basics.pdf](https://github.com/milaan9/01_Python_Introduction/blob/main/Python_Basics.pdf)
-
-
-[Python_Jupyter_Notebook.pdf](https://github.com/milaan9/01_Python_Introduction/blob/main/Python_Jupyter_Notebook.pdf)
+[Jupyter Notebook Cheat Sheet.pdf](https://github.com/milaan9/01_Python_Introduction/blob/main/Jupyter%20Notebook%20Cheat%20Sheet.pdf)
 
 
 [constant](https://github.com/milaan9/01_Python_Introduction/blob/main/constant.ipynb)
