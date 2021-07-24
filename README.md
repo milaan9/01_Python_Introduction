@@ -27,7 +27,7 @@ Mac OS X and Linux comes pre installed with python. Windows users can download [
 
 To install IPython run,
 
-    $ pip install ipython[all]
+     pip install ipython[all]
     
 This will install all the necessary dependencies for the notebook, qtconsole, tests etc.
 
