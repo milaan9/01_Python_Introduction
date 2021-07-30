@@ -13,6 +13,7 @@
 <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
     <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
  
+[![PyPI version shields.io](https://img.shields.io/pypi/v/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 # 01_Python_Introduction  
 
