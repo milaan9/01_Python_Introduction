@@ -14,6 +14,8 @@
     <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
  
 [![PyPI version shields.io](https://img.shields.io/pypi/v/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+
 
 # 01_Python_Introduction  
 
