@@ -49,7 +49,7 @@ Installing all the necessary libraries might prove troublesome. Anaconda and Can
 
 #### Anaconda 
 
-Download [![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=flate&logo=anaconda&logoColor=white)](https://www.continuum.io/downloads)
+Download [![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=flate&logo=anaconda&logoColor=white)](https://www.anaconda.com/products/individual)
 
 Anaconda is completely free and includes more than 300 python packages. Both python 2.7 and 3.9 options are available.
 
