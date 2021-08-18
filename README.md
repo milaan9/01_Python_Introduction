@@ -53,7 +53,7 @@ Download [![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=f
 
 Anaconda is completely free and includes more than 300 python packages. Both python 2.7 and 3.9 options are available.
 
-## Launching [![IPython](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat=Jupyter&logoColor=white)](https://jupyter.org/) Notebook
+## Launching <a href="https://jupyter.org/" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a> Notebook
 
 From the terminal
 
