@@ -99,7 +99,7 @@ These are **read-only** versions. However you can "**Run** ▶" all the codes **
 
 ### 1. How can I thank you for writing and sharing this tutorial? 🌷
 
-You can <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=if%20useful&style=style=flat&color=blue" alt="Star Badge"/> and <img src="https://img.shields.io/static/v1?label=Ψ&message=if%20useful&style=style=flat&color=blue" alt="Fork Badge"/> Starring is free for you, but it tells me and other people that it was helpful and you like this tutorial.
+You can <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=if%20useful&style=style=flat&color=blue" alt="Star Badge"/> and <img src="https://img.shields.io/static/v1?label=&#x3A8&message=if%20useful&style=style=flat&color=blue" alt="Fork Badge"/> Starring is free for you, but it tells me and other people that it was helpful and you like this tutorial.
 
 Go [here](https://github.com/milaan9/01_Python_Introduction) if you aren't here already and click the "⭐ Star" button in the top right corner. You will be asked to create a GitHub account if you don't already have one.
 
