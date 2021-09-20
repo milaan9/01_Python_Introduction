@@ -568,11 +568,11 @@ Here are some examples to try out:
     
 ![\Large x=a_0+\frac{1}{a_1+\frac{1}{a_2+\frac{1}{a_3+a_4}}}](https://latex.codecogs.com/svg.latex?\Large&space;x=a_0+\frac{1}{a_1+\frac{1}{a_2+\frac{1}{a_3+a_4}}})
 
-    ![\Large x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}](https://latex.codecogs.com/svg.latex?\Large&space;x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}})
+    ![\Large x=a_0+\frac{1}{a_1+\frac{1}{a_2+\frac{1}{a_3+a_4}}}](https://latex.codecogs.com/svg.latex?\Large&space;x=a_0+\frac{1}{a_1+\frac{1}{a_2+\frac{1}{a_3+a_4}}})
     
-![\Large \forall x\in X,\quad\exists y\leq\epsilon](https://latex.codecogs.com/svg.latex?\Large&space;\forall x\in X,\quad\exists y\leq\epsilon)
+![\Large \forallx\inX,\quad\exists y\leq\epsilon](https://latex.codecogs.com/svg.latex?\Large&space;\forallx\inX,\quad\exists y\leq\epsilon)
 
-    ![\Large \forall x \in X, \quad \exists y \leq \epsilon](https://latex.codecogs.com/svg.latex?\Large&space;\forall x \in X, \quad \exists y \leq \epsilon)
+    ![\Large \forallx\inX,\quad\exists y\leq\epsilon](https://latex.codecogs.com/svg.latex?\Large&space;\forallx\inX,\quad\exists y\leq\epsilon)
 
 
 The beginning and ending dollar signs $ are the delimiters for the TeX markup.
