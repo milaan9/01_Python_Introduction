@@ -566,11 +566,7 @@ Here are some examples to try out:
 
     ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
     
-![\Large -b \pm \sqrt{b^2 - 4ac} \over 2a](https://latex.codecogs.com/svg.latex?\Large&space;-b \pm \sqrt{b^2 - 4ac} \over 2a)
-
-    ![\Large -b \pm \sqrt{b^2 - 4ac} \over 2a](https://latex.codecogs.com/svg.latex?\Large&space;-b \pm \sqrt{b^2 - 4ac} \over 2a) 
-    
-![\Large x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}](https://latex.codecogs.com/svg.latex?\Large&space;x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}})
+![\Large x=a_0+\frac{1}{a_1+\frac{1}{a_2+\frac{1}{a_3+a_4}}}](https://latex.codecogs.com/svg.latex?\Large&space;x= a_0+\frac{1}{a_1+\frac{1}{a_2+\frac{1}{a_3+a_4}}})
 
     ![\Large x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}](https://latex.codecogs.com/svg.latex?\Large&space;x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}})
     
