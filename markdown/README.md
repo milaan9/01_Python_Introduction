@@ -566,29 +566,17 @@ Here are some examples to try out:
 
     ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
     
-<img src="https://latex.codecogs.com/gif.latex?s=\text { sensor reading }  " /> 
+![\Large -b \pm \sqrt{b^2 - 4ac} \over 2a](https://latex.codecogs.com/svg.latex?\Large&space;-b \pm \sqrt{b^2 - 4ac} \over 2a)
 
-    <img src="https://latex.codecogs.com/gif.latex?s=\text { sensor reading }  " /> 
+    ![\Large -b \pm \sqrt{b^2 - 4ac} \over 2a](https://latex.codecogs.com/svg.latex?\Large&space;-b \pm \sqrt{b^2 - 4ac} \over 2a) 
     
-<img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
+![\Large x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}](https://latex.codecogs.com/svg.latex?\Large&space;x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}})
 
-    <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
+    ![\Large x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}](https://latex.codecogs.com/svg.latex?\Large&space;x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}})
     
-<img src="https://latex.codecogs.com/gif.latex?P(s | O_t )=\text { Probability of a sensor reading value when sleep onset is observed at a time bin } t " />
+![\Large \forall x \in X, \quad \exists y \leq \epsilon](https://latex.codecogs.com/svg.latex?\Large&space;\forall x \in X, \quad \exists y \leq \epsilon)
 
-    <img src="https://latex.codecogs.com/gif.latex?P(s | O_t )=\text { Probability of a sensor reading value when sleep onset is observed at a time bin } t " />
-    
-<img src="https://latex.codecogs.com/gif.latex?-b \pm \sqrt{b^2 - 4ac} \over 2a  " /> 
-
-    <img src="https://latex.codecogs.com/gif.latex?-b \pm \sqrt{b^2 - 4ac} \over 2a  " /> 
-    
-<img src="https://latex.codecogs.com/gif.latex?x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}  " /> 
-
-    <img src="https://latex.codecogs.com/gif.latex?x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}  " /> 
-    
-<img src="https://latex.codecogs.com/gif.latex?\forall x \in X, \quad \exists y \leq \epsilon  " /> 
-
-    <img src="https://latex.codecogs.com/gif.latex?\forall x \in X, \quad \exists y \leq \epsilon  " /> 
+    ![\Large \forall x \in X, \quad \exists y \leq \epsilon](https://latex.codecogs.com/svg.latex?\Large&space;\forall x \in X, \quad \exists y \leq \epsilon)
 
 
 The beginning and ending dollar signs $ are the delimiters for the TeX markup.
