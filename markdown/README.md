@@ -566,9 +566,9 @@ Here are some examples to try out:
 
     ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
 
-$-b \pm \sqrt{b^2 - 4ac} \over 2a$
-$x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}$
-$\forall x \in X, \quad \exists y \leq \epsilon$
+$ -b \pm \sqrt{b^2 - 4ac} \over 2a $
+$ x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}} $
+$ \forall x \in X, \quad \exists y \leq \epsilon $
 
     $-b \pm \sqrt{b^2 - 4ac} \over 2a$
     $x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}$
