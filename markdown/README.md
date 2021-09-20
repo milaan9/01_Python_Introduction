@@ -209,21 +209,32 @@ Quote break.
 ![Title](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif "description")
 ***Image:*** *description*
 
+    ![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
+    ***Image:*** *description*
+    
 <img src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" width=200/>
+
+>      <img src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" width=200/>
 
 | <img src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" width="200"/> | 
 |:--:| 
-| **Python** |
+| **Hi-Five** |
+
+>      | <img src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" width="200"/> | 
+>      |:--:| 
+>      | **Hi-Five** |
 
 | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
 |:--:| 
 | *Space* |
 
-![Random Unsplash Image](https://source.unsplash.com/random)
+>      | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
+>      |:--:| 
+>      | *Space* |
 
-![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
-    
-    ![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
+![Random Unsplash Image](https://source.unsplash.com/random)    
+
+>      ![Random Unsplash Image](https://source.unsplash.com/random) 
     
 ## Image Align
 
