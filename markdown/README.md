@@ -78,13 +78,25 @@ People experience success because they've achieved a level of natural self-confi
 4. Actual numbers don't matter, just that it's a number
    1. Ordered sub-list
 5. And another item.  
-   
+
+>      1. First ordered list item
+>      2. Another item
+>        * Unordered sub-list. 
+>      1. Actual numbers don't matter, just that it's a number
+>        1. Ordered sub-list
+>      4. And another item.  
+
    Some text that should be aligned with the above item.
+   
+>      Some text that should be aligned with the above item.
 
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
 
+>      * Unordered list can use asterisks
+>      - Or minuses
+>      + Or pluses
 
 1. Today's
 2. date is:
@@ -93,21 +105,6 @@ People experience success because they've achieved a level of natural self-confi
          - hello! how are
          - how are you?
              - Hope doing well
-    
-
->      1. First ordered list item
->      2. Another item
->        * Unordered sub-list. 
->      1. Actual numbers don't matter, just that it's a number
->        1. Ordered sub-list
->      4. And another item.  
-   
->         Some text that should be aligned with the above item.
-
->      * Unordered list can use asterisks
->      - Or minuses
->      + Or pluses
-
 
 >      1. Today's
 >      2. date is:
@@ -116,6 +113,7 @@ People experience success because they've achieved a level of natural self-confi
 >               - hello! how are
 >               - how are you?
 >                   - Hope doing well
+
 
 ## List CheckBox
 
@@ -131,19 +129,35 @@ People experience success because they've achieved a level of natural self-confi
 # Link
 [I'm an inline-style link](https://www.github.com)
 
+>      [I'm an inline-style link](https://www.github.com)
+
 [Metric](https://en.wikipedia.org/wiki/Metric_(mathematics))
+
+>      [Metric](https://en.wikipedia.org/wiki/Metric_(mathematics))
  
 [Metric](https://en.wikipedia.org/wiki/Metric_%28mathematics%29)
 
+>      [Metric](https://en.wikipedia.org/wiki/Metric_%28mathematics%29)
+
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
+
+>      [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
 [You can use numbers for reference-style link definitions][1]
 
+>      [You can use numbers for reference-style link definitions][1]
+
 Or leave it empty and use the [link text itself]
+
+>      Or leave it empty and use the [link text itself]
 
 URLs and URLs in angle brackets will automatically get turned into links. 
 http://www.example.com or <http://www.example.com> and sometimes 
 example.com (but not on Github, for example).
+
+>      URLs and URLs in angle brackets will automatically get turned into links. 
+>      http://www.example.com or <http://www.example.com> and sometimes 
+>      example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
 
@@ -151,27 +165,11 @@ Some text to show that the reference links can follow later.
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
 
->      [I'm an inline-style link](https://www.github.com)
- 
->      [Metric](https://en.wikipedia.org/wiki/Metric_(mathematics))
- 
->      [Metric](https://en.wikipedia.org/wiki/Metric_%28mathematics%29)
-
->      [I'm a reference-style link][Arbitrary case-insensitive reference text]
-
->      [You can use numbers for reference-style link definitions][1]
-
->      Or leave it empty and use the [link text itself]
-
->      URLs and URLs in angle brackets will automatically get turned into links. 
->      http://www.example.com or <http://www.example.com> and sometimes 
->      example.com (but not on Github, for example).
-
->      Some text to show that the reference links can follow later.
 
 >      [arbitrary case-insensitive reference text]: https://www.mozilla.org
 >      [1]: http://slashdot.org
 >      [link text itself]: http://www.reddit.com
+
 
 # Blockquote
 > Lebenslangerschicksalsschatz: Lifelong Treasure of Destiny
