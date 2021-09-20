@@ -1,5 +1,3 @@
-e^{i\pi} = -1
-
 <p align="center"> 
 <a href="https://github.com/milaan9"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=milaan9&color=ff3300" alt="Last Commit"/></a> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F/tree/main/markdown&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
@@ -568,7 +566,7 @@ Here are some examples to try out:
 
     ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
     
-![\Large x=a_0+\frac{1}{a_1+\frac{1}{a_2+\frac{1}{a_3+a_4}}}](https://latex.codecogs.com/svg.latex?\Large&space;x= a_0+\frac{1}{a_1+\frac{1}{a_2+\frac{1}{a_3+a_4}}})
+![\Large x=a_0+\frac{1}{a_1+\frac{1}{a_2+\frac{1}{a_3+a_4}}}](https://latex.codecogs.com/svg.latex?\Large&space;x=a_0+\frac{1}{a_1+\frac{1}{a_2+\frac{1}{a_3+a_4}}})
 
     ![\Large x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}](https://latex.codecogs.com/svg.latex?\Large&space;x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}})
     
