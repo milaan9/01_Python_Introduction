@@ -255,6 +255,23 @@ ___
 
 Underscores
 
+# Line Breaks
+
+Here's a line for us to start with.
+
+This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
+
+This line is also a separate paragraph, but...
+This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
+
+    Here's a line for us to start with.
+
+    This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
+
+    This line is also a separate paragraph, but...
+    This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
+
+
 # Code
 
 ```java
@@ -298,12 +315,6 @@ But let's throw in a <b>tag</b>.
 >      No language indicated, so no syntax highlighting. 
 >      But let's throw in a <b>tag</b>.
 >      ```
-
->   \`\`\`java <br>
->   public static void main(String[] args) {<br>
->	    //TODO<br>
->	}<br>
->   \`\`\`<br>
 
 
 # Email
