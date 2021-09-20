@@ -3,7 +3,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F/tree/main/markdown&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
 </p> 
 
-Getting started with Markdown
+# Getting started with Markdown
 
 - Markdown - you can mark up titles, lists, tables, etc., in a much cleaner, readable and accurate way if you do it with HTML.
 
