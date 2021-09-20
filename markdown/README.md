@@ -72,23 +72,50 @@ People experience success because they've achieved a level of natural self-confi
     People experience success because they've achieved a level of natural self-confidence that allows them to take meaningful action.
 
 # List 
-* Item 1
-	* Item 1.1
-* Item 2
-	* Item 2.1
-	* Item 2.2
-* Item 3
-	* Item 3.1
-		* Item 3.1.1
+1. First ordered list item
+2. Another item
+  * Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+  1. Ordered sub-list
+4. And another item.  
+   
+   Some text that should be aligned with the above item.
+
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+
+
+1. Today's
+2. date is:
+    * Monday
+    * 16th January 1991
+         - hello! how are
+         - how are you?
+             - Hope doing well
     
->      * Item 1
->	      * Item 1.1
->	    * Item 2
->	     * Item 2.1
->	     * Item 2.2
->	    * Item 3
->		   * Item 3.1
->			  * Item 3.1.1
+
+>      1. First ordered list item
+>      2. Another item
+>        * Unordered sub-list. 
+>      1. Actual numbers don't matter, just that it's a number
+>        1. Ordered sub-list
+>      4. And another item.  
+   
+>         Some text that should be aligned with the above item.
+
+>      * Unordered list can use asterisks
+>      - Or minuses
+>      + Or pluses
+
+
+>      1. Today's
+>      2. date is:
+>          * Monday
+>          * 16th January 1991
+>               - hello! how are
+>               - how are you?
+>                   - Hope doing well
 
 ## List CheckBox
 
