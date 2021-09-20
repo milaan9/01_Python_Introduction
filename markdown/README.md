@@ -4,7 +4,8 @@
 </p> 
 
 Getting started with Markdown
-(Markdown - you can mark up titles, lists, tables, etc., in a much cleaner, readable and accurate way if you do it with HTML.)
+
+- Markdown - you can mark up titles, lists, tables, etc., in a much cleaner, readable and accurate way if you do it with HTML.
 
 =============================
 
