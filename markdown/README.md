@@ -62,13 +62,13 @@ Getting started with Markdown
     ###### Title 6    
 
 # Paragraph
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum, nibh eu commodo posuere, ligula ante dictum neque, vitae pharetra mauris mi a velit. Phasellus eleifend egestas diam, id tincidunt arcu dictum quis. Pellentesque eu dui tempus, tempus massa sed, eleifend tortor. Donec in sem in erat iaculis tincidunt. Fusce condimentum hendrerit turpis nec vehicula. Aliquam finibus nisi vel eros lobortis dictum. Etiam congue tortor libero, quis faucibus ligula gravida a. Suspendisse non pulvinar nisl. Sed malesuada, felis vitae consequat gravida, dui ligula suscipit ligula, nec elementum nulla sem vel dolor. Vivamus augue elit, venenatis non lorem in, volutpat placerat turpis. Nullam et libero at eros vulputate auctor. Duis sed pharetra lacus. Sed egestas ligula vitae libero aliquet, ac imperdiet est ullamcorper. Sed dapibus sem tempus eros dignissim, ac suscipit lectus dapibus. Proin sagittis diam vel urna volutpat, vel ullamcorper urna lobortis. Suspendisse potenti.
+Successful people do what they like to do also they do what they feel correct for their business. If you look in the dictionary for the meaning of the word success then you will find that it means the achievement of one's goal or aim. So, basically, anyone can achieve success by *simply achieving their aim or goal*.
 
-Nulla varius risus sapien, nec fringilla massa facilisis sed. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc vel ornare erat, eget rhoncus lectus. Suspendisse interdum scelerisque molestie. Aliquam convallis consectetur lorem ut consectetur. Nullam massa libero, cursus et porta ac, consequat eget nibh. Sed faucibus nisl augue, non viverra justo sagittis venenatis.
+People experience success because they've achieved a level of natural self-confidence that allows them to take meaningful action. They've achieved a level of natural self-confidence that allows them to trust their behavior, rather than focusing on the outcome of that behavior.
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum, nibh eu commodo posuere, ligula ante dictum neque, vitae pharetra mauris mi a velit. 
+    Successful people do what they like to do also they do what they feel correct for their business. If you look in the dictionary for the meaning of the word success then you will find that it means the achievement of one's goal or aim. 
     
-    Phasellus eleifend egestas diam, id tincidunt arcu dictum quis.
+    People experience success because they've achieved a level of natural self-confidence that allows them to take meaningful action.
 
 # List 
 * Item 1
@@ -131,7 +131,7 @@ Nulla varius risus sapien, nec fringilla massa facilisis sed. Pellentesque habit
 
 ### Image Align - Middle _(default)_
 
-Aenean eu euismod ante. Phasellus finibus nec est eget euismod.<img src="right-arrow.svg" width="42" height="42"> Duis pharetra sapien dolor, nec euismod nunc maximus ut. Fusce elementum tellus ac lacus ultrices, vel efficitur metus faucibus. Etiam sed egestas risus. Fusce quis ex lorem. Nullam aliquet ante vel mi ultrices, vel pretium nibh pretium. lobortis.
+Reading is important because *it develops your mind and gives you excessive knowledge and lessons of life*. <img src="right-arrow.svg" width="42" height="42"> It helps you understand the world around you better. It keeps your mind active and enhances your creative ability. Communication Skills: Reading improves your vocabulary and develops your communication skills.
 
 ```html
 <img src="right-arrow.svg" width="42" height="42">
@@ -139,7 +139,7 @@ Aenean eu euismod ante. Phasellus finibus nec est eget euismod.<img src="right-a
 
 ### Image Align - Left
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.<img src="left-arrow.svg" alt="left face" align="left" width="42" height="42"> Fusce semper libero ligula, vel varius enim sagittis quis. Aenean sed massa velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras faucibus consequat est eu varius. Nam vitae dignissim velit. 
+The seven habits are *visualizing, activating schema, questioning, inferring, determining importance, monitoring for meaning and synthesizing*. <img src="left-arrow.svg" alt="left face" align="left" width="42" height="42"> Visualizing allows the student to form mental pictures about what they are reading to aid their comprehension of a text.
 
 ```html
 <img src="left-arrow.svg" alt="left face" align="left" width="42" height="42"> 
@@ -147,7 +147,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.<img src="left-arrow.svg
 
 ### Image Align - Right
 
-Aenean eu euismod ante. Phasellus finibus nec est eget euismod.<img src="right-arrow.svg" alt="right" align="right" width="42" height="42"> Duis pharetra sapien dolor, nec euismod nunc maximus ut. Fusce elementum tellus ac lacus ultrices, vel efficitur metus faucibus. Etiam sed egestas risus. Fusce quis ex lorem. Nullam aliquet ante vel mi ultrices, vel pretium nibh pretium.
+When you read, you exercise your comprehension abilities and your analytical abilities. It fires up your imagination and stimulates the memory centers of your mind. <img src="right-arrow.svg" alt="right" align="right" width="42" height="42"> It helps recall information as well as stabilize your emotions. The importance of a reading habit is that it *strengthens mental muscles*.
 
 ```html
 <img src="right-arrow.svg" alt="right" align="right" width="42" height="42">
@@ -157,14 +157,14 @@ Aenean eu euismod ante. Phasellus finibus nec est eget euismod.<img src="right-a
 
 ### Italic
 
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum, nibh eu commodo posuere, ligula ante dictum neque, vitae pharetra mauris mi a velit.*
+*The greatest glory in living lies not in never falling, but in rising every time we fall.*
 
-     *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum, nibh eu commodo posuere, ligula ante dictum neque, vitae pharetra mauris mi a velit.*
+     *The greatest glory in living lies not in never falling, but in rising every time we fall.*
 
 ### Bold
-**Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum, nibh eu commodo posuere, ligula ante dictum neque, vitae pharetra mauris mi a velit.**
+**The way to get started is to quit talking and begin doing.**
 
-    **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum, nibh eu commodo posuere, ligula ante dictum neque, vitae pharetra mauris mi a velit.**
+    **The way to get started is to quit talking and begin doing.**
     
 ### Strikethrough
 ~~strikethrough text~~
@@ -204,12 +204,11 @@ public static void main(String[] args) {
 >	}<br>
 >   \`\`\`<br>
 
-See more [Markdown Extras - Style Text](https://github.com/fefong/markdown_readme/blob/master/markdown-extras.md#style-text)
 
 # Email
-<email@email.com>
+<milaanparmar9@gmail.com>
 
-    <email@email.com>
+    <milaanparmar9@gmail.com>
 
 # Table
 
@@ -379,8 +378,6 @@ See more: [https://shields.io/](https://shields.io/)
 
 # Some links for more in depth learning
 
-:page_facing_up: [Wikipedia - Markdown](https://pt.wikipedia.org/wiki/Markdown)
+:page_facing_up: [Wikipedia - Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 :page_facing_up: [Official](https://daringfireball.net/projects/markdown/)
-
-
