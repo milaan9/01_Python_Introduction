@@ -76,7 +76,7 @@ People experience success because they've achieved a level of natural self-confi
 2. Another item
    * Unordered sub-list. 
 4. Actual numbers don't matter, just that it's a number
-  1. Ordered sub-list
+   1. Ordered sub-list
 5. And another item.  
    
    Some text that should be aligned with the above item.
