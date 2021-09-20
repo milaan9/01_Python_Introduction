@@ -575,8 +575,19 @@ Here are some examples to try out:
     ![\Large \forall x \in X, \quad \exists y \leq \epsilon](https://latex.codecogs.com/svg.latex?\Large&space;\forall x \in X,\quad \exists y \leq \epsilon)
 
 
-The beginning and ending dollar signs $ are the delimiters for the TeX markup.
+Here is a simple script to convert the equation into html: https://jsfiddle.net/8ndx694g/
 
+Step 1: Paste LaTex Equation   
+
+    x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}
+
+Step 2: Click on "Econdode to github render URL"
+
+    <img src="https://render.githubusercontent.com/render/math?math=x%20%3D%20a_0%20%2B%20%5Cfrac%7B1%7D%7Ba_1%20%2B%20%5Cfrac%7B1%7D%7Ba_2%20%2B%20%5Cfrac%7B1%7D%7Ba_3%20%2B%20a_4%7D%7D%7D">
+
+Step 3: Copy and Paste genrated URL
+
+<img src="https://render.githubusercontent.com/render/math?math=x%20%3D%20a_0%20%2B%20%5Cfrac%7B1%7D%7Ba_1%20%2B%20%5Cfrac%7B1%7D%7Ba_2%20%2B%20%5Cfrac%7B1%7D%7Ba_3%20%2B%20a_4%7D%7D%7D">
 
 # Shields Badges
 
