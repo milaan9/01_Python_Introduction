@@ -206,6 +206,20 @@ Quote break.
 
 # Image
 
+![Title](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif "description")
+***Image:*** *description*
+
+<img src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" width=200/>
+
+| <img src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" width="200"/> | 
+|:--:| 
+| **Python** |
+
+| ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
+|:--:| 
+| *Space* |
+
+![Random Unsplash Image](https://source.unsplash.com/random)
 
 ![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
     
