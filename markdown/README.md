@@ -207,9 +207,11 @@ Quote break.
 # Image
 
 ![Title](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif "description")
+
 ***Image:*** *description*
 
     ![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
+    
     ***Image:*** *description*
     
 <img src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" width=200/>
