@@ -233,6 +233,27 @@ Quote break.
 >        <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 >      </dl>
 
+# Horizontal Rule
+
+Three or more...
+
+---
+
+>      ---
+
+Hyphens
+
+***
+
+>      ***
+
+Asterisks
+
+___
+
+>      ___
+
+Underscores
 
 # Code
 
@@ -242,20 +263,41 @@ public static void main(String[] args) {
 }
 ```
 
+>      ```java
+>      public static void main(String[] args) {
+>      	//TODO
+>      }
+>      ```
+
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+
+>      ```javascript
+>      var s = "JavaScript syntax highlighting";
+>      alert(s);
+>      ```
  
 ```python
 s = "Python syntax highlighting"
 print s
 ```
+
+>      ```python
+>      s = "Python syntax highlighting"
+>      print s
+>      ```
  
 ```
 No language indicated, so no syntax highlighting. 
 But let's throw in a <b>tag</b>.
 ```
+
+>      ```
+>      No language indicated, so no syntax highlighting. 
+>      But let's throw in a <b>tag</b>.
+>      ```
 
 >   \`\`\`java <br>
 >   public static void main(String[] args) {<br>
@@ -271,35 +313,6 @@ But let's throw in a <b>tag</b>.
 
 # Table
 
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-|:------------- |:-------------:| ------:|
-| col 3 is      | right-aligned | \$1900 |
-| col 2 is      | centered      |   \$12 |
-| col 1 is      | left-aligned  |    \$1 |
-
-The outer pipes **`|`** are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-
->\| Tables        | Are           | Cool  |
->\|:------------- |:-------------:| ------:|
->\| col 3 is      | right-aligned | \$1900 |
->\| col 2 is      | centered      |   \$12 |
->\| col 1 is      | left-aligned  |    \$1 |
-
-The outer pipes **`|`** are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
-
->\Markdown | Less | Pretty
->\--- | --- | ---
->\*Still* | `renders` | **nicely**
->\1 | 2 | 3
-
 |Column 1|Column 2|Column 3|
 |---|---|---|
 |Row 1 Column1| Row 1 Column 2| Row 1 Column 3|
@@ -310,43 +323,32 @@ The outer pipes **`|`** are optional, and you don't need to make the raw Markdow
 >\|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|<br>
 >\|Row 2 Column1| Row 2 Column 2| Row 2 Column 3|<br>
 
-## Table Align
+Colons can be used to align columns.
 
-## Align Center
+| Tables        | Are           | Cool  |
+|:------------- |:-------------:| ------:|
+| col 3 is      | right-aligned | \$1900 |
+| col 2 is      | centered      |   \$12 |
+| col 1 is      | left-aligned  |    \$1 |
 
-|Column 1|Column 2|Column 3|
-|:---:|:---:|:---:|
-|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|
-|Row 2 Column1| Row 2 Column 2| Row 2 Column 3|
+>\| Tables        | Are           | Cool  |
+>\|:------------- |:-------------:| ------:|
+>\| col 3 is      | right-aligned | \$1900 |
+>\| col 2 is      | centered      |   \$12 |
+>\| col 1 is      | left-aligned  |    \$1 |
 
->\|Column 1|Column 2|Column 3|<br>
->\|:---:|:---:|:---:|<br>
->\|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|<br>
->\|Row 2 Column1| Row 2 Column 2| Row 2 Column 3|<br>
+The outer pipes **`|`** are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
 
-## Align Left
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
-|Column 1|Column 2|Column 3|
-|:---|:---|:---|
-|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|
-|Row 2 Column1| Row 2 Column 2| Row 2 Column 3|
+>\Markdown | Less | Pretty
+>\--- | --- | ---
+>\*Still* | `renders` | **nicely**
+>\1 | 2 | 3
 
->\|Column 1|Column 2|Column 3|<br>
->\|:---|:---|:---|<br>
->\|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|<br>
->\|Row 2 Column1| Row 2 Column 2| Row 2 Column 3|<br>
-
-## Align Right
-
-|Column 1|Column 2|Column 3|
-|---:|---:|---:|
-|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|
-|Row 2 Column1| Row 2 Column 2| Row 2 Column 3|
-
->\|Column 1|Column 2|Column 3|<br>
->\|---:|---:|---:|<br>
->\|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|<br>
->\|Row 2 Column1| Row 2 Column 2| Row 2 Column 3|<br>
 
 ### Table - _rowspan_
 
