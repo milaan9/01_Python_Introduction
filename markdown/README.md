@@ -129,21 +129,49 @@ People experience success because they've achieved a level of natural self-confi
 
 
 # Link
-[Google](https://www.google.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
+[I'm an inline-style link](https://www.github.com)
 
-[Youtube](https://www.youtube.com) - _Enjoy videos and music you love, upload original content, and share it with friends, family, and the world on YouTube._
+[Metric](https://en.wikipedia.org/wiki/Metric_(mathematics))
+ 
+[Metric](https://en.wikipedia.org/wiki/Metric_%28mathematics%29)
 
-[GitHub](https://github.com/milaan9/01_Python_Introduction/blob/main/markdown) - _Project_
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
 
-		[Google](https://www.google.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
+[You can use numbers for reference-style link definitions][1]
 
-## Anchor links
+Or leave it empty and use the [link text itself]
 
-[Markdown - Summary](#Getting-started-with-Markdown)
+URLs and URLs in angle brackets will automatically get turned into links. 
+http://www.example.com or <http://www.example.com> and sometimes 
+example.com (but not on Github, for example).
 
-[Markdown - Markdown Editor](#Markdown-Editor)
+Some text to show that the reference links can follow later.
 
-		[Markdown - Link](#Link)
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[link text itself]: http://www.reddit.com
+
+>      [I'm an inline-style link](https://www.github.com)
+ 
+>      [Metric](https://en.wikipedia.org/wiki/Metric_(mathematics))
+ 
+>      [Metric](https://en.wikipedia.org/wiki/Metric_%28mathematics%29)
+
+>      [I'm a reference-style link][Arbitrary case-insensitive reference text]
+
+>      [You can use numbers for reference-style link definitions][1]
+
+>      Or leave it empty and use the [link text itself]
+
+>      URLs and URLs in angle brackets will automatically get turned into links. 
+>      http://www.example.com or <http://www.example.com> and sometimes 
+>      example.com (but not on Github, for example).
+
+>      Some text to show that the reference links can follow later.
+
+>      [arbitrary case-insensitive reference text]: https://www.mozilla.org
+>      [1]: http://slashdot.org
+>      [link text itself]: http://www.reddit.com
 
 # Blockquote
 > Lebenslangerschicksalsschatz: Lifelong Treasure of Destiny
