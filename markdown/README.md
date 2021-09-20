@@ -40,14 +40,6 @@
 
 # Titles 
 
-### Title 1
-### Title 2
-
-	Title 1
-	========================
-	Title 2 
-	------------------------
-
 # Title 1
 ## Title 2
 ### Title 3
@@ -61,6 +53,44 @@
     #### Title 4
     ##### Title 5
     ###### Title 6    
+
+
+# Style Text
+
+### Italic
+
+*The greatest glory in living lies not in never falling, but in rising every time we fall.*
+
+     *The greatest glory in living lies not in never falling, but in rising every time we fall.*
+
+### Bold
+**The way to get started is to quit talking and begin doing.**
+
+    **The way to get started is to quit talking and begin doing.**
+    
+### Strikethrough
+~~strikethrough text~~
+
+    ~~strikethrough text~~
+    
+### keyboard input
+
+<kbd>ALT + F4</kbd> 
+```
+<kbd>ALT + F4</kbd> 
+```
+
+### subscripted
+normal text <sub>subscripted</sub> normal text
+```
+normal text <sub>subscripted</sub> normal text
+```
+
+### superscripted
+normal text <sup>superscripted</sup> normal text
+```
+normal text <sup>superscripted</sup> normal text
+```
 
 # Paragraph
 Successful people do what they like to do also they do what they feel correct for their business. If you look in the dictionary for the meaning of the word success then you will find that it means the achievement of one's goal or aim. So, basically, anyone can achieve success by *simply achieving their aim or goal*.
@@ -204,109 +234,27 @@ Quote break.
 >      </dl>
 
 
-# Image
-
-![Title](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif "description")
-
-***Image:*** *description*
-
-    ![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif "description")
-    
-    ***Image:*** *description*
-    
-<img src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" width=200/>
-
->      <img src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" width=200/>
-
-| <img src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" width="200"/> | 
-|:--:| 
-| **Hi-Five** |
-
->      | <img src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" width="200"/> | 
->      |:--:| 
->      | **Hi-Five** |
-
-| ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
-|:--:| 
-| *Space* |
-
->      | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
->      |:--:| 
->      | *Space* |
-
-![Random Unsplash Image](https://source.unsplash.com/random)    
-
->      ![Random Unsplash Image](https://source.unsplash.com/random) 
-    
-## Image Align
-
-### Image Align - Middle _(default)_
-
-Reading is important because *it develops your mind and gives you excessive knowledge and lessons of life*. <img src="right-arrow.svg" width="42" height="42"> It helps you understand the world around you better. It keeps your mind active and enhances your creative ability. Communication Skills: Reading improves your vocabulary and develops your communication skills.
-
-```html
-<img src="right-arrow.svg" width="42" height="42">
-```
-
-### Image Align - Left
-
-The seven habits are *visualizing, activating schema, questioning, inferring, determining importance, monitoring for meaning and synthesizing*. <img src="left-arrow.svg" alt="left face" align="left" width="42" height="42"> Visualizing allows the student to form mental pictures about what they are reading to aid their comprehension of a text.
-
-```html
-<img src="left-arrow.svg" alt="left face" align="left" width="42" height="42"> 
-```
-
-### Image Align - Right
-
-When you read, you exercise your comprehension abilities and your analytical abilities. It fires up your imagination and stimulates the memory centers of your mind. <img src="right-arrow.svg" alt="right" align="right" width="42" height="42"> It helps recall information as well as stabilize your emotions. The importance of a reading habit is that it *strengthens mental muscles*.
-
-```html
-<img src="right-arrow.svg" alt="right" align="right" width="42" height="42">
-```
-
-# Style Text
-
-### Italic
-
-*The greatest glory in living lies not in never falling, but in rising every time we fall.*
-
-     *The greatest glory in living lies not in never falling, but in rising every time we fall.*
-
-### Bold
-**The way to get started is to quit talking and begin doing.**
-
-    **The way to get started is to quit talking and begin doing.**
-    
-### Strikethrough
-~~strikethrough text~~
-
-    ~~strikethrough text~~
-    
-### keyboard input
-
-<kbd>ALT + F4</kbd> 
-```
-<kbd>ALT + F4</kbd> 
-```
-
-### subscripted
-normal text <sub>subscripted</sub> normal text
-```
-normal text <sub>subscripted</sub> normal text
-```
-
-### superscripted
-normal text <sup>superscripted</sup> normal text
-```
-normal text <sup>superscripted</sup> normal text
-```
-
 # Code
 
 ```java
 public static void main(String[] args) {
 	//TODO
 }
+```
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+ 
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
 ```
 
 >   \`\`\`java <br>
@@ -322,6 +270,35 @@ public static void main(String[] args) {
     <milaanparmar9@gmail.com>
 
 # Table
+
+Colons can be used to align columns.
+
+| Tables        | Are           | Cool  |
+|:------------- |:-------------:| ------:|
+| col 3 is      | right-aligned | \$1900 |
+| col 2 is      | centered      |   \$12 |
+| col 1 is      | left-aligned  |    \$1 |
+
+The outer pipes **`|`** are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+
+>\| Tables        | Are           | Cool  |
+>\|:------------- |:-------------:| ------:|
+>\| col 3 is      | right-aligned | \$1900 |
+>\| col 2 is      | centered      |   \$12 |
+>\| col 1 is      | left-aligned  |    \$1 |
+
+The outer pipes **`|`** are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
+
+>\Markdown | Less | Pretty
+>\--- | --- | ---
+>\*Still* | `renders` | **nicely**
+>\1 | 2 | 3
 
 |Column 1|Column 2|Column 3|
 |---|---|---|
@@ -446,13 +423,75 @@ public static void main(String[] args) {
 </table>
 ```
 
+# Image
+
+![Title](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif "description")
+
+***Image:*** *description*
+
+    ![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif "description")
+    
+    ***Image:*** *description*
+    
+<img src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" width=200/>
+
+>      <img src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" width=200/>
+
+| <img src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" width="200"/> | 
+|:--:| 
+| **Hi-Five** |
+
+>      | <img src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" width="200"/> | 
+>      |:--:| 
+>      | **Hi-Five** |
+
+| ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
+|:--:| 
+| *Space* |
+
+>      | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
+>      |:--:| 
+>      | *Space* |
+
+![Random Unsplash Image](https://source.unsplash.com/random)    
+
+>      ![Random Unsplash Image](https://source.unsplash.com/random) 
+    
+## Image Align
+
+### Image Align - Middle _(default)_
+
+Reading is important because *it develops your mind and gives you excessive knowledge and lessons of life*. <img src="right-arrow.svg" width="42" height="42"> It helps you understand the world around you better. It keeps your mind active and enhances your creative ability. Communication Skills: Reading improves your vocabulary and develops your communication skills.
+
+```html
+<img src="right-arrow.svg" width="42" height="42">
+```
+
+### Image Align - Left
+
+The seven habits are *visualizing, activating schema, questioning, inferring, determining importance, monitoring for meaning and synthesizing*. <img src="left-arrow.svg" alt="left face" align="left" width="42" height="42"> Visualizing allows the student to form mental pictures about what they are reading to aid their comprehension of a text.
+
+```html
+<img src="left-arrow.svg" alt="left face" align="left" width="42" height="42"> 
+```
+
+### Image Align - Right
+
+When you read, you exercise your comprehension abilities and your analytical abilities. It fires up your imagination and stimulates the memory centers of your mind. <img src="right-arrow.svg" alt="right" align="right" width="42" height="42"> It helps recall information as well as stabilize your emotions. The importance of a reading habit is that it *strengthens mental muscles*.
+
+```html
+<img src="right-arrow.svg" alt="right" align="right" width="42" height="42">
+```
 
 # Escape Characters
 
 ```
 \   backslash
+/   forwardslash
+|   separator
 `   backtick
 *   asterisk
+^   power
 _   underscore
 {}  curly braces
 []  square brackets
