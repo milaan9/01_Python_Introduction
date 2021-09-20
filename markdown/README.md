@@ -71,23 +71,23 @@ Nulla varius risus sapien, nec fringilla massa facilisis sed. Pellentesque habit
     Phasellus eleifend egestas diam, id tincidunt arcu dictum quis.
 
 # List 
-* Item 1;
-	* Item 1.1;
-* Item 2;
-	* Item 2.1;
-	* Item 2.2;
+* Item 1
+	* Item 1.1
+* Item 2
+	* Item 2.1
+	* Item 2.2
 * Item 3
-	* Item 3.1;
-		* Item 3.1.1;
+	* Item 3.1
+		* Item 3.1.1
     
->      * Item 1;
->	      * Item 1.1;
->	    * Item 2;
->	     * Item 2.1;
->	     * Item 2.2;
+>      * Item 1
+>	      * Item 1.1
+>	    * Item 2
+>	     * Item 2.1
+>	     * Item 2.2
 >	    * Item 3
->		   * Item 3.1;
->			  * Item 3.1.1;
+>		   * Item 3.1
+>			  * Item 3.1.1
 
 ## List CheckBox
 
@@ -356,23 +356,21 @@ _   underscore
 
 # Emoji
 
-* [Emoji](emoji.md#emoji);
-	* [People](emoji.md#people) - (:blush: ; :hushed: ; :shit:);
-	* [Nature](emoji.md#nature) - (:sunny: ; :snowman: ; :dog:);
-	* [Objects](emoji.md#objects) - (:file_folder: ; :computer: ; :bell:);
-	* [Places](emoji.md#places) - (:rainbow: ; :warning: ; :statue_of_liberty:);
-	* [Symbols](emoji.md#symbols) - (:cancer: ; :x: ; :shipit:);
-* [Kaomoji](emoji.md#kaomoji);
-* [Special-Symbols](emoji.md#special-symbols);
+* [Emoji](emoji.md#emoji)
+	* [People](emoji.md#people) - (:blush: ; :hushed: ; :shit:)
+	* [Nature](emoji.md#nature) - (:sunny: ; :snowman: ; :dog:)
+	* [Objects](emoji.md#objects) - (:file_folder: ; :computer: ; :bell:)
+	* [Places](emoji.md#places) - (:rainbow: ; :warning: ; :statue_of_liberty:)
+	* [Symbols](emoji.md#symbols) - (:cancer: ; :x: ; :shipit:)
+* [Kaomoji](emoji.md#kaomoji)
+* [Special-Symbols](emoji.md#special-symbols)
 	
 
 # Shields Badges
 
-:warning: _We are not responsible for this site_
-
 See more: [https://shields.io/](https://shields.io/)
 
-[![GitHub forks](https://img.shields.io/github/forks/fefong/markdown_readme)](https://github.com/fefong/markdown_readme/network)
+[![GitHub forks](https://img.shields.io/github/forks/milaan9/01_Python_Introduction)](https://img.shields.io/github/forks/milaan9/01_Python_Introduction)
 ![Markdown](https://img.shields.io/badge/markdown-project-red)
 
 # Markdown Editor
@@ -380,8 +378,6 @@ See more: [https://shields.io/](https://shields.io/)
 [StackEdit](https://stackedit.io) - _StackEdit’s Markdown syntax highlighting is unique. The refined text formatting of the editor helps you visualize the final rendering of your files._
 
 # Some links for more in depth learning
-
-:page_facing_up: [Markdown Extras](https://github.com/fefong/markdown_readme/blob/master/markdown-extras.md#markdown---extras)
 
 :page_facing_up: [Wikipedia - Markdown](https://pt.wikipedia.org/wiki/Markdown)
 
