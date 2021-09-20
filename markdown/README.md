@@ -172,11 +172,41 @@ Some text to show that the reference links can follow later.
 
 
 # Blockquote
-> Lebenslangerschicksalsschatz: Lifelong Treasure of Destiny
 
-    > Lebenslangerschicksalsschatz: Lifelong Treasure of Destiny 
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
 
-# Image | GIF
+Quote break.
+
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
+
+    > Blockquotes are very handy in email to emulate reply text.
+    > This line is part of the same quote.
+    
+    Quote break.
+    
+    > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
+
+# Inline HTML - You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+>      <dl>
+>        <dt>Definition list</dt>
+>        <dd>Is something people use sometimes.</dd>
+>        <dt>Markdown in HTML</dt>
+>        <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+>      </dl>
+
+
+# Image
+
+
 ![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
     
     ![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
