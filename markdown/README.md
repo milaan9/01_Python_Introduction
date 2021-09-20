@@ -40,19 +40,19 @@
 
 # Titles 
 
-# Title 1
-## Title 2
-### Title 3
-#### Title 4
-##### Title 5
-###### Title 6
+# Heading  1
+## Heading  2
+### Heading  3
+#### Heading  4
+##### Heading  5
+###### Heading  6
 
-    # Title 1
-    ## Title 2
-    ### Title 3    
-    #### Title 4
-    ##### Title 5
-    ###### Title 6    
+    # Heading  1
+    ## Heading  2
+    ### Heading  3    
+    #### Heading  4
+    ##### Heading  5
+    ###### Heading  6    
 
 
 # Style Text
@@ -109,24 +109,24 @@ People experience success because they've achieved a level of natural self-confi
    1. Ordered sub-list
 5. And another item.  
 
->      1. First ordered list item
->      2. Another item
->        * Unordered sub-list. 
->      1. Actual numbers don't matter, just that it's a number
->        1. Ordered sub-list
->      4. And another item.  
+       1. First ordered list item
+       2. Another item
+         * Unordered sub-list. 
+       1. Actual numbers don't matter, just that it's a number
+         1. Ordered sub-list
+       4. And another item.  
 
    Some text that should be aligned with the above item.
    
->      Some text that should be aligned with the above item.
+       Some text that should be aligned with the above item.
 
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
 
->      * Unordered list can use asterisks
->      - Or minuses
->      + Or pluses
+      * Unordered list can use asterisks
+      - Or minuses
+      + Or pluses
 
 1. Today's
 2. date is:
@@ -136,13 +136,13 @@ People experience success because they've achieved a level of natural self-confi
          - how are you?
              - Hope doing well
 
->      1. Today's
->      2. date is:
->          * Monday
->          * 16th January 1991
->               - hello! how are
->               - how are you?
->                   - Hope doing well
+          1. Today's
+          2. date is:
+              * Monday
+              * 16th January 1991
+                   - hello! how are
+                   - how are you?
+                       - Hope doing well
 
 
 ## List CheckBox
@@ -151,43 +151,43 @@ People experience success because they've achieved a level of natural self-confi
  - [x] Item B
  - [x] Item C
  
->     - [ ] Item A
->     - [x] Item B
->     - [x] Item C
+       - [ ] Item A
+       - [x] Item B
+       - [x] Item C
 
 
 # Link
 [I'm an inline-style link](https://www.github.com)
 
->      [I'm an inline-style link](https://www.github.com)
+      [I'm an inline-style link](https://www.github.com)
 
 [Metric](https://en.wikipedia.org/wiki/Metric_(mathematics))
 
->      [Metric](https://en.wikipedia.org/wiki/Metric_(mathematics))
+      [Metric](https://en.wikipedia.org/wiki/Metric_(mathematics))
  
 [Metric](https://en.wikipedia.org/wiki/Metric_%28mathematics%29)
 
->      [Metric](https://en.wikipedia.org/wiki/Metric_%28mathematics%29)
+      [Metric](https://en.wikipedia.org/wiki/Metric_%28mathematics%29)
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
->      [I'm a reference-style link][Arbitrary case-insensitive reference text]
+      [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
 [You can use numbers for reference-style link definitions][1]
 
->      [You can use numbers for reference-style link definitions][1]
+      [You can use numbers for reference-style link definitions][1]
 
 Or leave it empty and use the [link text itself]
 
->      Or leave it empty and use the [link text itself]
+      Or leave it empty and use the [link text itself]
 
 URLs and URLs in angle brackets will automatically get turned into links. 
 http://www.example.com or <http://www.example.com> and sometimes 
 example.com (but not on Github, for example).
 
->      URLs and URLs in angle brackets will automatically get turned into links. 
->      http://www.example.com or <http://www.example.com> and sometimes 
->      example.com (but not on Github, for example).
+      URLs and URLs in angle brackets will automatically get turned into links. 
+      http://www.example.com or <http://www.example.com> and sometimes 
+      example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
 
@@ -196,9 +196,9 @@ Some text to show that the reference links can follow later.
 [link text itself]: http://www.reddit.com
 
 
->      [arbitrary case-insensitive reference text]: https://www.mozilla.org
->      [1]: http://slashdot.org
->      [link text itself]: http://www.reddit.com
+      [arbitrary case-insensitive reference text]: https://www.mozilla.org
+      [1]: http://slashdot.org
+      [link text itself]: http://www.reddit.com
 
 
 # Blockquote
@@ -210,12 +210,12 @@ Quote break.
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
 
-    > Blockquotes are very handy in email to emulate reply text.
-    > This line is part of the same quote.
+    Blockquotes are very handy in email to emulate reply text.
+    This line is part of the same quote.
     
     Quote break.
     
-    > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
+    This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
 
 # Inline HTML - You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 
@@ -226,12 +226,12 @@ Quote break.
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
->      <dl>
->        <dt>Definition list</dt>
->        <dd>Is something people use sometimes.</dd>
->        <dt>Markdown in HTML</dt>
->        <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
->      </dl>
+      <dl>
+        <dt>Definition list</dt>
+        <dd>Is something people use sometimes.</dd>
+        <dt>Markdown in HTML</dt>
+        <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+      </dl>
 
 # Horizontal Rule
 
@@ -239,13 +239,13 @@ Three or more...
 
 ---
 
->      ---
+      ---
 
 Hyphens
 
 ***
 
->      ***
+      ***
 
 Asterisks
 
@@ -280,41 +280,41 @@ public static void main(String[] args) {
 }
 ```
 
->      ```java
->      public static void main(String[] args) {
->      	//TODO
->      }
->      ```
+      ```java
+      public static void main(String[] args) {
+      	//TODO
+      }
+      ```
 
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
 
->      ```javascript
->      var s = "JavaScript syntax highlighting";
->      alert(s);
->      ```
+      ```javascript
+      var s = "JavaScript syntax highlighting";
+      alert(s);
+      ```
  
 ```python
 s = "Python syntax highlighting"
 print s
 ```
 
->      ```python
->      s = "Python syntax highlighting"
->      print s
->      ```
+      ```python
+      s = "Python syntax highlighting"
+      print s
+      ```
  
 ```
 No language indicated, so no syntax highlighting. 
 But let's throw in a <b>tag</b>.
 ```
 
->      ```
->      No language indicated, so no syntax highlighting. 
->      But let's throw in a <b>tag</b>.
->      ```
+      ```
+      No language indicated, so no syntax highlighting. 
+      But let's throw in a <b>tag</b>.
+      ```
 
 
 # Email
@@ -342,11 +342,11 @@ Colons can be used to align columns.
 | col 2 is      | centered      |   \$12 |
 | col 1 is      | left-aligned  |    \$1 |
 
->\| Tables        | Are           | Cool  |
->\|:------------- |:-------------:| ------:|
->\| col 3 is      | right-aligned | \$1900 |
->\| col 2 is      | centered      |   \$12 |
->\| col 1 is      | left-aligned  |    \$1 |
+>\| Tables        | Are           | Cool  |<br>
+>\|:------------- |:-------------:| ------:|<br>
+>\| col 3 is      | right-aligned | \$1900 |<br>
+>\| col 2 is      | centered      |   \$12 |<br>
+>\| col 1 is      | left-aligned  |    \$1 |<br>
 
 The outer pipes **`|`** are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
 
@@ -355,10 +355,10 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
->\Markdown | Less | Pretty
->\--- | --- | ---
->\*Still* | `renders` | **nicely**
->\1 | 2 | 3
+>\Markdown | Less | Pretty<br>
+>\--- | --- | ---<br>
+>\*Still* | `renders` | **nicely**<br>
+>\1 | 2 | 3<br>
 
 
 ### Table - _rowspan_
@@ -454,21 +454,21 @@ Markdown | Less | Pretty
 |:--:| 
 | **Hi-Five** |
 
->      | <img src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" width="200"/> | 
->      |:--:| 
->      | **Hi-Five** |
+      | <img src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" width="200"/> | 
+      |:--:| 
+      | **Hi-Five** |
 
 | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
 |:--:| 
 | *Space* |
 
->      | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
->      |:--:| 
->      | *Space* |
+      | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
+      |:--:| 
+      | *Space* |
 
 ![Random Unsplash Image](https://source.unsplash.com/random)    
 
->      ![Random Unsplash Image](https://source.unsplash.com/random) 
+      ![Random Unsplash Image](https://source.unsplash.com/random) 
     
 ## Image Align
 
