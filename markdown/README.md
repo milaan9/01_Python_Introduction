@@ -539,7 +539,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Example:
 
-<a href="https://www.youtube.com/watch?v=w3jLJU7DT5E&ab_channel=GitHub" target="_blank"><img src="https://www.youtube.com/watch?v=w3jLJU7DT5E&ab_channel=GitHub/0.jpg" 
+<a href="https://www.youtube.com/watch?v=w3jLJU7DT5E&ab_channel=GitHub" target="_blank"><img src="youtube.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Or, in pure Markdown, but losing the image sizing and border:
@@ -550,7 +550,7 @@ Or, in pure Markdown, but losing the image sizing and border:
 
 Example:
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=w3jLJU7DT5E&ab_channel=GitHub)
+[![IMAGE ALT TEXT HERE](youtube.png)](https://www.youtube.com/watch?v=w3jLJU7DT5E&ab_channel=GitHub)
 
 # TeX Mathematical Formulae
 
