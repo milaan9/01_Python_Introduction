@@ -79,6 +79,7 @@ In Anaconda, Open the respective terminals and execute the above.
 |    | **[markdown](https://github.com/milaan9/01_Python_Introduction/tree/main/markdown)** |
 | 04 | **[Hello_World](https://github.com/milaan9/01_Python_Introduction/blob/main/004_Hello_World.ipynb)** |
 | 05 | **[Python_Keywords_and_Identifiers](https://github.com/milaan9/01_Python_Introduction/blob/main/005_Python_Keywords_and_Identifiers.ipynb)** |
+|    | **[Python_Keywords_List](https://github.com/milaan9/01_Python_Introduction/blob/main/Python_Keywords_List.ipynb)** |
 | 06 | **[Python_Statement_Indentation_Comments](https://github.com/milaan9/01_Python_Introduction/blob/main/006_Python_Statement_Indentation_Comments.ipynb)** |
 | 07 | **[Python_Variables_& Constants](https://github.com/milaan9/01_Python_Introduction/blob/main/007_Python_Variables_%26_Constants.ipynb)** |
 | 08 | **[Python_Literals](https://github.com/milaan9/01_Python_Introduction/blob/main/008_Python_Literals.ipynb)** |
