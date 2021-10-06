@@ -113,9 +113,9 @@ Go [**`here`**](https://github.com/milaan9/01_Python_Introduction) if you aren't
 
     ![Download ZIP](img/dnld_rep.png)
 
-3. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
+2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
     
-4. Launch ipython notebook from the folder which contains the notebooks. Open each one of them
+3. Launch ipython notebook from the folder which contains the notebooks. Open each one of them
   
     **`Kernel ➞ Restart & Clear Output`**
     
