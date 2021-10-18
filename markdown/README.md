@@ -205,6 +205,8 @@ Some text to show that the reference links can follow later.
 
 > Blockquotes are very handy in email to emulate reply text.
 > This line is part of the same quote.
+	> This line is also part of the same quote.
+>> This line too.
 
 Quote break.
 
