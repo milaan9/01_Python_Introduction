@@ -71,7 +71,7 @@ In Anaconda, Open the respective terminals and execute the above.
 
 | **No.** | **Name** | 
 | ------- | -------- | 
-| 00 | **[What_is_Programming](https://github.com/milaan9/01_Python_Introduction/blob/main/0000_What_is_Programming.ipynb)** |
+| 000 | **[What_is_Programming](https://github.com/milaan9/01_Python_Introduction/blob/main/0000_What_is_Programming.ipynb)** |
 | 00 | **[Intro_to_Python](https://github.com/milaan9/01_Python_Introduction/blob/main/000_Intro_to_Python.ipynb)** |
 | 01 | **[Python_Programming](https://github.com/milaan9/01_Python_Introduction/blob/main/001_Python_Programming.ipynb)** |
 | 02 | **[How_to_install_Python](https://github.com/milaan9/01_Python_Introduction/blob/main/001_How_to_install_Python.ipynb)** |
